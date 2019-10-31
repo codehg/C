@@ -3,7 +3,7 @@ Repositorio com exercicios resolvidos na linguagem C referentes ao julgador onli
 
 
 ## Contato para dúvidas
-  hugoaraliveira@gmail.com
+O contato pode ser feito preferencialmente por e-mail no endereco: hugoaraliveira@gmail.com, com o assunto "Contribuição Repositório C".
 
 ## Como contribuir
 Para contribuir com o repositório, seu codigo precisa obedecer algumas regras simples:          

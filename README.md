@@ -49,7 +49,7 @@ lá é possível selecionar sua linguagem preferida, isso evita que você tenha 
 
 ## Como contribuir
 Para contribuir com o repositório, seu codigo precisa obedecer algumas regras simples:          
-* Utilizar os nomes das variáveis de acordo com o que o exercício do Uri pede ou da forma mais explícita possível (evite )    
+* Utilizar os nomes das variáveis de acordo com o que o exercício do Uri pede ou da forma mais explícita possível    
 * O nome do arquivo deve obedecer a seguinte sintaxe: uri\<numerodoexercicio\>.c
 * Obrigatoriamente o exercício deve ser aceito na plataforma Uri com 100% de acerto.
 * Se é sua primeira vez, será interessante abrir algum dos códigos como exemplo.

@@ -36,7 +36,7 @@ Ao enviar, uma mensagem de confirmação aparecerá no topo da tela.
 
 ![enviarsol](img/enviarsol.png)
 
-Para conferir o status do seu envio e se sua resposta está correta, basta ir no menu superior na aba submissões e clicar em 
+Para conferir o status do seu envio e se sua resposta está correta, basta ir no menu superior na aba submissões e clicar em 'Todas'. 
 
 ![conferir](img/conferir.png)
 
